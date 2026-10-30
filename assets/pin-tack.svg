@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 46 46" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
-  <!-- Needle -->
-  <line x1="18.5" y1="27.5" x2="7.5" y2="38.5" stroke-width="2.6" />
-  <polygon points="6,39.5 9,37 6.5,37" fill="currentColor" stroke="none" />
-  <!-- Pushpin Contoured Body -->
-  <path d="M 13.5 22 C 11.5 19.5, 13 16, 16 15.5 C 21 14.5, 21.5 10.5, 23.5 8.5 C 25.5 6.5, 28.5 6.5, 31.5 9.5 L 35.5 13.5 C 38.5 16.5, 38.5 19.5, 36.5 21.5 C 34.5 23.5, 30.5 24, 29.5 29 C 29 32, 25.5 33.5, 23 31.5 C 19.5 28.5, 16.5 25.5, 13.5 22 Z" />
-  <!-- Inner Highlight Stripe near Cap -->
-  <line x1="26" y1="11" x2="34" y2="19" stroke-width="2.4" />
-</svg>

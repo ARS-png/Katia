@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 46" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
-  <!-- Round Pin Head -->
-  <circle cx="16" cy="13" r="10.5" />
-  <!-- Inner Specular Arc Highlight -->
-  <path d="M14.5 5.5 a7.5 7.5 0 0 1 7.5 7.5" stroke-width="2.4" />
-  <!-- Needle -->
-  <line x1="16" y1="23.5" x2="16" y2="41.5" stroke-width="2.6" />
-  <polygon points="14.6,41 16,44.5 17.4,41" fill="currentColor" stroke="none" />
-</svg>
